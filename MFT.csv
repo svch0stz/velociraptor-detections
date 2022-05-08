@@ -5,7 +5,7 @@ Enumeration Tools,^(AdFind.exe|everything.exe|sharphound|bloodhound|nbtscan|Nmap
 Data Transfer,^(rclone|megasync|plink.exe|tcmd|FileZilla),.,Internal
 Archive Utilities,^(WinRAR|7zip.exe),.,Internal
 Credential Theft,^(sekurLSA.dll|WebBrowserPassView|WirelessKeyView|GrabChrome|NLBrute),.,https://github.com/gentilkiwi/mimikatz
-Defense Evasion Paths,.,IObit Unlocker|File Shredder|DefenderControl|processhacker,,Internal
+Defense Evasion Paths,IObit Unlocker|File Shredder|DefenderControl|processhacker,,Internal
 Defense Evasion Binaries,gmer.exe|dControl.exe|processhacker|file_shredder,,Internal
 Encryption,^(dcrypt|truecrypt|VeraCrypt),,Internal
 Crytominers,^WinRing0.sys$|^nssm.exe$,,Internal
