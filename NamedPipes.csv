@@ -42,5 +42,4 @@ PipeRegex,Detection,Reference
 ^wceservicepipe,Cred Dump-Tools Named Pipes,https://docs.logpoint.com/docs/alert-rules/en/latest/MITRE.html#lp-possible-credential-dump-tools-named-pipes-detected
 ^windows.update.manager,Cobalt Strike: windows-updates.profile,https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f590
 ^windows.update.manager,Cobalt Strike: windows-updates.profile,https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f591
-^wkssvc,Cobalt Strike: jquery-c2.4.2.profile,https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f582
 77control,r77 Rootkit,https://github.com/bytecode77/r77-rootkit
