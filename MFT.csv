@@ -1,6 +1,7 @@
 Filename,PathName,Detection,Reference
 sekurLSA.dll,.,Mimikatz,https://github.com/gentilkiwi/mimikatz
 .,mimikatz,Mimikatz,https://github.com/gentilkiwi/mimikatz
-\.(exe|dll|dit|msi|bat|rar|zip|dmp)$,Perflogs|\\\\Users\\\\Public|\\\\Windows\\\\Temp,Suspicious Location,Internal
+\.(exe|dll|dit|msi|bat|rar|zip|dmp)$,Perflogs|\\Users\\Public|\\Windows\\Temp,Suspicious Location,Internal
 AdFind.exe|everything.exe|sharphound|bloodhound|nbtscan|Nmap.exe|Zenmap|KPortScan|Advanced_port_scanner,.,Enumeration Tools,Internal
 ^(rclone|megasync|plink.exe),.,Data Transfer,Internal
+,.,Data Transfer,Internal
