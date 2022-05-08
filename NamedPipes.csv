@@ -1,4 +1,4 @@
-PipeRegex,Source,Reference
+PipeRegex,Detection,Reference
 ^46a676ab7f179e511e30dd2dc41bd388$,APT: Project Sauron,https://securelist.com/faq-the-projectsauron-apt/75533/
 ^583da945-62af-10e8-4902-a8f205c72b2e$,Sunburst: Solarwinds,https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
 ^9f81f59bc58452127884ce513865ed20$,APT: Project Sauron,https://securelist.com/faq-the-projectsauron-apt/75533/
