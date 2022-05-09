@@ -10,4 +10,4 @@ Defense Evasion Paths,IObit Unlocker|File Shredder|DefenderControl|processhacker
 Defense Evasion Binaries,gmer.exe|dControl.exe|processhacker|file_shredder,,Internal
 Encryption,^(dcrypt|truecrypt|VeraCrypt),,Internal
 Crytominers,^WinRing0.sys$|^nssm.exe$,,Internal
-Remote Execution,.,/Windows/(PAEXE|PSEXE)|,Internal
+Remote Execution,.,/Windows/(PAEXE|PSEXE),Internal
