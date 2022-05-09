@@ -2,10 +2,12 @@ Detection,Filename,PathName,Reference
 Suspicious Location,\.(exe|dll|dit|msi|bat|rar|zip|dmp)$,Perflogs|/Users/Public|/Windows/Temp,Internal
 Mimikatz,.,mimikatz,https://github.com/gentilkiwi/mimikatz
 Enumeration Tools,^(AdFind.exe|everything.exe|sharphound|bloodhound|nbtscan|Nmap.exe|Zenmap|KPortScan|Advanced_port_scanner|netscan),.,Internal
-Data Transfer,^(rclone|megasync|plink.exe|tcmd|FileZilla),.,Internal
-Archive Utilities,^(WinRAR|7zip.exe),.,Internal
+Data Transfer,.,^(rclone|megasync|plink.exe|tcmd|FileZilla),Internal
+Data Transfer Folders,/(rclone|megasync|FileZilla),.,Internal
+Archive Utilities,^(WinRAR|7zip.exe|7.exe),.,Internal
 Credential Theft,^(sekurLSA.dll|WebBrowserPassView|WirelessKeyView|GrabChrome|NLBrute),.,https://github.com/gentilkiwi/mimikatz
 Defense Evasion Paths,IObit Unlocker|File Shredder|DefenderControl|processhacker,,Internal
 Defense Evasion Binaries,gmer.exe|dControl.exe|processhacker|file_shredder,,Internal
 Encryption,^(dcrypt|truecrypt|VeraCrypt),,Internal
 Crytominers,^WinRing0.sys$|^nssm.exe$,,Internal
+Remote Execution,.,/Windows/(PAEXE|PSEXE)|,Internal
