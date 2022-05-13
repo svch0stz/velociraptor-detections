@@ -1,7 +1,7 @@
 Detection,Filename,PathName,Reference
 Suspicious Location,\.(exe|dll|dit|msi|bat|rar|zip|dmp)$,Perflogs|/Users/Public|/Windows/Temp,Internal
 Mimikatz,.,mimikatz,https://github.com/gentilkiwi/mimikatz
-Enumeration Tools,^(AdFind.exe|everything.exe|sharphound|bloodhound|nbtscan|Nmap.exe|Zenmap|KPortScan|Advanced_port_scanner|netscan.exe),.,Internal
+Enumeration Tools,^(AdFind.exe|everything.exe|sharphound|bloodhound.exe|nbtscan|Nmap.exe|Zenmap|KPortScan|Advanced_port_scanner|netscan.exe|nsscan.exe),.,Internal
 Data Transfer,.,^(rclone|megasync|plink.exe|tcmd|FileZilla),Internal
 Data Transfer Folders,/(rclone|megasync|FileZilla),.,Internal
 Archive Utilities,^(WinRAR|7zip.exe|7.exe),.,Internal
