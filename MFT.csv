@@ -7,7 +7,7 @@ Data Transfer Folders,/(rclone|megasync|FileZilla|ngrok),.,Internal
 Archive Utilities,^(WinRAR|7zip.exe|7.exe),.,Internal
 Credential Theft,^(sekurLSA.dll|WebBrowserPassView|WirelessKeyView|GrabChrome|NLBrute|veaam.ps1$|lsass.dmp),.,Internal
 Defense Evasion Paths,., IObit Unlocker|File Shredder|DefenderControl|processhacker,Internal
-Defense Evasion Binaries,gmer.exe|dControl.exe$|processhacker|file_shredder|^nssm.exe$,,Internal
+Defense Evasion Binaries,^(gmer.exe|dControl.exe$|processhacker|file_shredder|nssm.exe$),,Internal
 Encryption,^(dcrypt|truecrypt|VeraCrypt),.,Internal
 Crytominers,^WinRing0.sys$|^xmrig.exe$,.,Internal
 Remote Execution,.,/Windows/(PAEXE|PSEXE),Internal
