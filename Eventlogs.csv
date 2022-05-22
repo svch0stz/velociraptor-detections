@@ -10,9 +10,9 @@ powershell,win_powershell_tamper_with_windows_defender,T1562.001-Win Defender Di
 security,win_domain_trust_discovery_execution,T1482-Execution of Domain Trust Discovery Tools,^(4688|4648)$,adfind|dsquery|nltest,
 security,win_exfiltration_programs,T1567.002-Execution of Exfiltration Programs,^(4688)$,meg\.exe|rclone|rsync|megacmd|megasync,
 security,win_syswow64_binaries,T1567.002-Use of 32-bit LOLBINs,^(4688)$,syswow64,
-system,win_eventlog_clear,T1070.001-Windows Log Cleared,^(1102)$,.,
-system,win_sus_service,T1543.003-Suspicious Windows Service Creation,^(7045)$,echo|COMSPEC|powershell|ADMIN\\$|cmd\.exe,
+system.evtx,win_security_eventlog_clear,T1070.001-Windows Log Cleared,^(1102)$,.,
+system.evtx,win_sus_service,T1543.003-Suspicious Windows Service Creation,^(7045)$,echo|COMSPEC|powershell|ADMIN\\$|cmd\.exe,
 defender,win_disable_defender,T1562.001-Win Defender Disabled,^(5001|5010|5012)$,.,
-bits,win_sus_bitsjobs,T1197-Suspicious BitsTransfer Activity,^(59|60|61)$,\.(ps1|exe|rar|dll|7z|zip|bat|xyz|tk),
+bits,win_sus_bitsjobs,T1197-Suspicious BitsTransfer Activity,^(59|60|61)$,\.(ps1|exe|rar|dll|7z|zip|bat|xyz|tk),edgedl.me.gvt1.com|oneclient.sfx.ms|downloads.dell.com|msedge.b.tlu.dl.delivery.mp.microsoft.com|ardownload.adobe.com|download.autodesk.com
 security,win_vssadmin_execution,T1490-Delete Volume Shadow Copies,^(4688)$,vssadmin|bcdedit,
 security,win_ntdsutil_execution,T1003.003-Dumping of NTDS Database,^(4688)$,ntdsutil,
