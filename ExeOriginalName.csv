@@ -44,8 +44,7 @@ XXXXX,setup,pCloud Drive.exe,pCloud Drive,pCloud_Windows_3.11.12_x64.exe
 XXXXX,Plink,Plink,"Command-line SSH, Telnet, and Rlogin client",plink.exe
 XXXXX,PSCP,PSCP,Command-line SCP/SFTP client,pscp.exe
 XXXXX,PSFTP,PSFTP,Command-line interactive SFTP client,psftp.exe
-XXXXX,INSTALL,install.exe,Total Commander Installer,tcmd1000x32.exe
-XXXXX,INSTALL,install.exe,Total Commander Installer,tcmd1000x64.exe
+XXXXX,,,Total Commander Installer,tcmd1000x32.exe
 XXXXX,BulletsPassView,BulletsPassView.exe,BulletsPassView,BulletsPassView.exe
 XXXXX,WinLister,WinLister.exe,WinLister,winlister.exe
 XXXXX,HRSword,HRSword.exe,Huorong Sword GUI Frontend,HRSword v5.0.47.bin
@@ -59,10 +58,10 @@ XXXXX,Remote Desktop PassView,rdpv.exe,Password Recovery for Remote Desktop,rdpv
 XXXXX,RouterPassView,RouterPassView.exe,Decrypts Router files.,RouterPassView.exe
 XXXXX,RemCom,RemCom.exe,Remote Command Executor,RemCom.exe
 XXXXX,,,Remote Utilities,host7.1.2.0.exe
-XXXXX,Setup,viewer.7.1.2.0.exe,Remote Utilities - Viewer,viewer7.1.2.0.exe
+XXXXX,,viewer.7.1.2.0.exe,Remote Utilities - Viewer,viewer7.1.2.0.exe
 XXXXX,Web Browser Pass View,,Web Browser Password Viewer,WebBrowserPassView.exe
 XXXXX,PowerTool.exe,PowerTool.exe,Anti-virus/rootkit/bootkit Tool,PowerTool64.exe
-XXXXX,console,winscp.com,Console interface for WinSCP,WinSCP.com
+XXXXX,,winscp.com,Console interface for WinSCP,WinSCP.com
 XXXXX,winscp,winscp.exe,"WinSCP: SFTP, FTP, WebDAV, S3 and SCP client",WinSCP.exe
 XXXXX,iepv,iepv.exe,IE Passwords Viewer,iepv.exe
 XXXXX,VNCPassView,VNCPassView.exe,VNCPassView,VNCPassView.exe
