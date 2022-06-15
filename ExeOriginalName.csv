@@ -40,7 +40,7 @@ XXXXX,PDQDeploySetup.exe,PDQDeploySetup.exe,PDQ Deploy Install,Deploy_19.3.298.0
 XXXXX,PDQInventory.exe,PDQInventory.exe,PDQ Inventory Installer,Inventory_19.3.298.0.exe
 XXXXX,,,UltraVNC Setup                                              ,UltraVNC_1_3_81_X64_Setup.exe
 XXXXX,,,File Shredder by PowTools                                   ,file_shredder_setup.exe
-XXXXX,setup,pCloud Drive.exe,pCloud Drive,pCloud_Windows_3.11.12_x64.exe
+XXXXX,,pCloud Drive.exe,pCloud Drive,pCloud_Windows_3.11.12_x64.exe
 XXXXX,Plink,Plink,"Command-line SSH, Telnet, and Rlogin client",plink.exe
 XXXXX,PSCP,PSCP,Command-line SCP/SFTP client,pscp.exe
 XXXXX,PSFTP,PSFTP,Command-line interactive SFTP client,psftp.exe
