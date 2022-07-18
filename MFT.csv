@@ -12,3 +12,5 @@ Encryption,^(dcrypt|truecrypt|VeraCrypt),.,Internal
 Crytominers,^WinRing0.sys$|^xmrig.exe$,.,Internal
 Remote Execution,.,/Windows/(PAEXE|PSEXE),Internal
 Pirating Software,.,KMSPico|cracked|keygen,Internal
+VPN,.,nordvpn|protonvpn|expressvpn|surfshark|cyberghost|Private Internet Access|IPvanish|wireguard|Connectify|OpenVPN,Internal
+RMM,.,anydesk|teamviewer|logmein|connectwise|screenconnect|mremoteng|GoToAssist|zoho assist|BeyondTrust Remote|realvnc|VNC connect|tightvnc|ultravnc|bomgar|splashtop|atera|supremo|awesun,Internal
