@@ -1,5 +1,5 @@
 Detection,Filename,PathName,Reference
-Suspicious Location,\.(exe|dll|dit|msi|bat|rar|zip|dmp|ps1)$,Perflogs|/Users/Public|/Windows/Temp,Internal
+Suspicious Location,\.(exe|dll|dit|msi|bat|rar|zip|dmp|ps1)$,Perflogs|/Users/Public|/Windows/Temp|Appdata/Roaming/|Appdata/Local/|C:/Temp/,Internal
 Mimikatz,.,mimikatz,https://github.com/gentilkiwi/mimikatz
 Enumeration Tools,^(AdFind.exe|everything.exe|sharphound|bloodhound.exe|bloodhound.zip|nbtscan|Nmap.exe|Zenmap|KPortScan|Advanced_port_scanner|netscan.exe|nsscan.exe),.,Internal
 Data Transfer,.,^(rclone|megasync|plink.exe|FileZilla|ngrok),Internal
