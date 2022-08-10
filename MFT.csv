@@ -3,8 +3,8 @@ Suspicious Location,\.(exe|dll|dit|msi|bat|rar|zip|dmp|ps1)$,/Perflogs/|/Users/P
 Mimikatz,.,mimikatz,https://github.com/gentilkiwi/mimikatz
 Enumeration Tools,^(AdFind.exe|everything.exe|sharphound|bloodhound|nbtscan|Nmap.exe|Zenmap|KPortScan|Advanced_port_scanner|netscan.exe|nsscan.exe),.,Internal
 Enumeration Tool outputs,(^(ad_ous|ad_computers|ad_users|ad_group|trustdmp|subnets)\.txt)|(_computers|_domains|_gpos|_groups|_ous|_users)\.json|bloodhound\.zip,.,Internal
-Data Transfer,.,^(rclone|megasync|megaclient|plink.exe|FileZilla|ngrok),Internal
-Data Transfer Folders,^(rclone|megasync|ngrok),.,Internal
+Data Transfer Paths,.,(rclone|megasync|megaclient|plink.exe|FileZilla|ngrok),Internal
+Data Transfer,^(rclone|megasync|megaclient|plink.exe|ngrok),.,Internal
 Archive Utilities,^(WinRAR|7zip.exe|7z.exe),.,Internal
 Credential Theft,^(sekurLSA.dll|WebBrowserPassView|WirelessKeyView|GrabChrome|NLBrute|veaam.ps1$|lsass.*\.dmp|pwdump|procdump),.,Internal
 Defense Evasion Paths,.,IObit Unlocker|File Shredder|DefenderControl|processhacker|pchunter,Internal
