@@ -41,9 +41,9 @@ ANY,PDQInventory.exe,PDQInventory.exe,PDQ Inventory Installer,Inventory_19.3.298
 ANY,,,UltraVNC Setup                                              ,UltraVNC_1_3_81_X64_Setup.exe
 ANY,,,File Shredder by PowTools                                   ,file_shredder_setup.exe
 ANY,,pCloud Drive.exe,pCloud Drive,pCloud_Windows_3.11.12_x64.exe
-ANY,Plink,Plink,"Command-line SSH, Telnet, and Rlogin client",plink.exe
-ANY,PSCP,PSCP,Command-line SCP/SFTP client,pscp.exe
-ANY,PSFTP,PSFTP,Command-line interactive SFTP client,psftp.exe
+plink.exe,Plink,Plink,"Command-line SSH, Telnet, and Rlogin client",plink.exe
+pscp.exe,PSCP,PSCP,Command-line SCP/SFTP client,pscp.exe
+psftp.exe,PSFTP,PSFTP,Command-line interactive SFTP client,psftp.exe
 ANY,,,Total Commander Installer,tcmd1000x32.exe
 ANY,BulletsPassView,BulletsPassView.exe,BulletsPassView,BulletsPassView.exe
 ANY,WinLister,WinLister.exe,WinLister,winlister.exe
