@@ -38,8 +38,8 @@ ANY,Ammyy Admin,,Ammyy Admin,AA_v3.exe
 ANY,,,AnyDesk,AnyDesk.exe
 ANY,PDQDeploySetup.exe,PDQDeploySetup.exe,PDQ Deploy Install,Deploy_19.3.298.0.exe
 ANY,PDQInventory.exe,PDQInventory.exe,PDQ Inventory Installer,Inventory_19.3.298.0.exe
-ANY,,,UltraVNC Setup                                              ,UltraVNC_1_3_81_X64_Setup.exe
-ANY,,,File Shredder by PowTools                                   ,file_shredder_setup.exe
+ANY,,,UltraVNC Setup,UltraVNC_1_3_81_X64_Setup.exe
+ANY,,,File Shredder by PowTools,file_shredder_setup.exe
 ANY,,pCloud Drive.exe,pCloud Drive,pCloud_Windows_3.11.12_x64.exe
 plink.exe,Plink,Plink,"Command-line SSH, Telnet, and Rlogin client",plink.exe
 pscp.exe,PSCP,PSCP,Command-line SCP/SFTP client,pscp.exe
@@ -67,3 +67,4 @@ ANY,iepv,iepv.exe,IE Passwords Viewer,iepv.exe
 ANY,VNCPassView,VNCPassView.exe,VNCPassView,VNCPassView.exe
 ANY,PCHunter,PCHunter.exe,Epoolsoft Windows Information View Tools,PCHunter32.exe
 ANY,Massscan_GUI.exe,Massscan_GUI.exe,Masscan_GUI,Massscan_GUI.exe
+ANY,ProxyLite.Windows.Console.exe,ProxyLite.Windows.Console.exe,ProxyLite Console Client
