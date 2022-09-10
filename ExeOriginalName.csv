@@ -69,4 +69,4 @@ ANY,PCHunter,PCHunter.exe,Epoolsoft Windows Information View Tools,PCHunter32.ex
 ANY,Massscan_GUI.exe,Massscan_GUI.exe,Masscan_GUI,Massscan_GUI.exe
 ANY,ProxyLite.Windows.Console.exe,ProxyLite.Windows.Console.exe,ProxyLite Console Client,ProxyLite
 ANY,action1_agent.exe,action1_agent.exe,,Action1 agent
-ANY,action1_agent.exe,action1_agent.exe,,Action1 agent
+ANY,action1_remote.exe,action1_remote.exe,,Action1 agent
