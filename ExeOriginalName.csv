@@ -48,10 +48,10 @@ ANY,,,Total Commander Installer,tcmd1000x32.exe
 ANY,BulletsPassView,BulletsPassView.exe,BulletsPassView,BulletsPassView.exe
 ANY,WinLister,WinLister.exe,WinLister,winlister.exe
 ANY,HRSword,HRSword.exe,Huorong Sword GUI Frontend,HRSword v5.0.47.bin
-ANY,,,Email  Password-Recovery,mailpv.exe
+ANY,,,Email Password-Recovery,mailpv.exe
 ANY,Process Hacker,ProcessHacker.exe,Process Hacker,ProcessHacker.exe
 ANY,peview,peview.exe,PE Viewer,peview.exe
-ANY,ChromePass,  ChromePass,Chrome Password Recovery,ChromePass.exe
+ANY,ChromePass,ChromePass,Chrome Password Recovery,ChromePass.exe
 ANY,,,Application for scanning networks,netscan.exe
 ANY,WKV,,Extracts wireless keys stored by Windows,WirelessKeyView.exe
 ANY,Remote Desktop PassView,rdpv.exe,Password Recovery for Remote Desktop,rdpv.exe
@@ -67,4 +67,6 @@ ANY,iepv,iepv.exe,IE Passwords Viewer,iepv.exe
 ANY,VNCPassView,VNCPassView.exe,VNCPassView,VNCPassView.exe
 ANY,PCHunter,PCHunter.exe,Epoolsoft Windows Information View Tools,PCHunter32.exe
 ANY,Massscan_GUI.exe,Massscan_GUI.exe,Masscan_GUI,Massscan_GUI.exe
-ANY,ProxyLite.Windows.Console.exe,ProxyLite.Windows.Console.exe,ProxyLite Console Client
+ANY,ProxyLite.Windows.Console.exe,ProxyLite.Windows.Console.exe,ProxyLite Console Client,ProxyLite
+ANY,action1_agent.exe,action1_agent.exe,,Action1 agent
+ANY,action1_agent.exe,action1_agent.exe,,Action1 agent
