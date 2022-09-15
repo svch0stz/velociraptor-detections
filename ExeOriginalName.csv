@@ -70,3 +70,4 @@ ANY,Massscan_GUI.exe,Massscan_GUI.exe,Masscan_GUI,Massscan_GUI.exe
 ANY,ProxyLite.Windows.Console.exe,ProxyLite.Windows.Console.exe,ProxyLite Console Client,ProxyLite
 ANY,action1_agent.exe,action1_agent.exe,Endpoint Agent,Action1 agent
 ANY,action1_remote.exe,action1_remote.exe,Endpoint Agent,Action1 agent
+ANY,Defender Control,Defender Control,Windows Defender Control,Windows Defender Control
