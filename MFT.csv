@@ -7,8 +7,8 @@ Data Transfer Paths,.,(rclone|megasync|megaclient|plink.exe|FileZilla|ngrok|Stea
 Data Transfer,^(rclone|megasync|megaclient|plink.exe|ngrok|StealBit),.,Internal
 Archive Utilities,^(WinRAR|7zip.exe|7z.exe),.,Internal
 Credential Theft,^(sekurLSA.dll|WebBrowserPassView|WirelessKeyView|GrabChrome|NLBrute|veaam.ps1$|lsass.*\.dmp|pwdump|procdump),.,Internal
-Defense Evasion Paths,.,IObit Unlocker|File Shredder|DefenderControl|processhacker|pchunter|CleanWipe,Internal
-Defense Evasion Binaries,^(gmer.exe|dControl.exe$|processhacker|file_shredder|pchunter|processhacker|CleanWipe|nssm.exe$),,Internal
+Defense Evasion Paths,.,IObit Unlocker|File Shredder|DefenderControl|processhacker|pchunter|CleanWipe|DefenderControl,Internal
+Defense Evasion Binaries,^(gmer.exe|dControl.exe$|processhacker|file_shredder|pchunter|processhacker|CleanWipe|DefenderControl|nssm.exe$),,Internal
 Encryption,^(dcrypt|truecrypt|VeraCrypt),.,Internal
 Crytominers,^WinRing0.sys$|^xmrig.exe$,.,Internal
 Remote Execution,.,/Windows/(PAEXE|PSEXE),Internal
