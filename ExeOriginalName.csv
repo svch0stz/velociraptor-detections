@@ -71,3 +71,5 @@ ANY,ProxyLite.Windows.Console.exe,ProxyLite.Windows.Console.exe,ProxyLite Consol
 ANY,action1_agent.exe,action1_agent.exe,Endpoint Agent,Action1 agent
 ANY,action1_remote.exe,action1_remote.exe,Endpoint Agent,Action1 agent
 ANY,Defender Control,Defender Control,Windows Defender Control,Windows Defender Control
+ANY,NirCmd,NirCmd.exe,Nir Sofer,nircmd.exe
+ANY,NSudo,NSudo.exe,NSudo for Windows,Nsudo
