@@ -162,7 +162,7 @@ RMM,logmein.com,,
 RMM,logmeinrescue.com,,
 RMM,splashtop.com,,
 RMM,teamviewer.com,,
-TLD,\.am$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
+TLD,\.am$,telegr\.am,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
 TLD,\.bd$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
 TLD,\.casino$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
 TLD,\.cd$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
