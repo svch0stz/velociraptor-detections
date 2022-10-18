@@ -193,3 +193,4 @@ TLD,\.zw$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
 URL Shortener,j.mp,,https://www.bleepingcomputer.com/news/security/spammers-add-random-text-to-shortened-links-to-evade-detection/
 URL Shortener,tinyurl.com,,
 URL SHortener,urlz.fr,,
+URL SHortener,^s.id$,,
