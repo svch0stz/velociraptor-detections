@@ -194,7 +194,12 @@ TLD,\.ws$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
 TLD,\.xxx$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
 TLD,\.xyz$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
 TLD,\.zw$,,https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
-URL Shortener,j.mp,,https://www.bleepingcomputer.com/news/security/spammers-add-random-text-to-shortened-links-to-evade-detection/
+URL Shortener,goo\.gl,,
+URL Shortener,^j\.mp,,https://www.bleepingcomputer.com/news/security/spammers-add-random-text-to-shortened-links-to-evade-detection/
 URL Shortener,tinyurl.com,,
-URL Shortener,urlz.fr,,
-URL Shortener,^s.id$,,
+URL Shortener,^s\.id$,,
+URL Shortener,^u\.to,,u.to - URL shortener https://u.to/
+URL Shortener,^u\.no,,Free Custom URL Shortener Branded URLs Link Management
+URL Shortener,urlz\.fr,,
+
+
