@@ -1,0 +1,50 @@
+Category,Regex,Comment
+Encryption,bestcrypt,
+Encryption,veracrypt,
+P2P,BiglyBT,
+P2P,deluge,
+P2P,torrent,
+P2P,vuze,
+Remote Access,anydesk,Ransomware
+Remote Access,atera,Ransomware
+Remote Access,awesun,
+Remote Access,Basecamp,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,BeAnywhere,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,BeyondTrust Remote,
+Remote Access,bomgar,
+Remote Access,connectwise,Ransomware
+Remote Access,Domotz,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,DWservice,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,emco remote,
+Remote Access,Fixmeit,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,Fleetdeck,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,GoToAssist,Ransomware
+Remote Access,Itarian,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,Level.io,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,logmein,
+Remote Access,ManageEngine,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,Meraki Systems Manager Agent,
+Remote Access,mremoteng,Ransomware
+Remote Access,N-Able,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,Pulseway,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,realvnc,
+Remote Access,screenconnect,Ransomware
+Remote Access,Sorillus,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,splashtop,Ransomware
+Remote Access,supremo,
+Remote Access,teamviewer,Ransomware
+Remote Access,tightvnc,
+Remote Access,ultravnc,
+Remote Access,VNC connect,
+Remote Access,ZeroTier,https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+Remote Access,zoho assist,
+VPN,Connectify,
+VPN,cyberghost,
+VPN,expressvpn,
+VPN,IPvanish,
+VPN,nordvpn,
+VPN,OpenVPN,
+VPN,Private Internet Access,
+VPN,protonvpn,
+VPN,surfshark,
+VPN,wireguard,
